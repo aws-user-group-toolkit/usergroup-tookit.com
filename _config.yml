@@ -37,6 +37,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-notion
+  - jekyll-remote-theme
+
+whitelist:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-notion
+  - jekyll-remote-theme
 
 defaults:
   - scope:
@@ -49,6 +57,22 @@ defaults:
       comments: true
       share: true
       related: true
+
+notion:
+  databases:
+    - id: "be049d33-9b86-4a47-9723-1ca869d9f19b"
+      # layout: "post"
+      # template: "post"
+      # permalink: "/:Name"
+      # collection: posts
+      # icon: "far fa-newspaper"
+      # tags: "tags"
+      # categories: "categories"
+      # date: "Created"
+      # title: "Text"
+      # description: "description"
+      # image: "image"
+      # status: "status"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
