@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$global-font-family: 'AmazonEmberCd_W_Lt' !default;
+$header-font-family: 'AmazonEmberDisplay_W_Lt' !default;
+$caption-font-family: 'AmazonEmberDisplay_W_Lt' !default;
+
+/* ==========================================================================
+   Air skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #FFFFFF;
+$text-color: #1c232f !default;
+$muted-text-color: #1c232f !default;
+$primary-color: #FFFFFF !default;
+$border-color: mix(#fff, #1c232f, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #a166ff !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+

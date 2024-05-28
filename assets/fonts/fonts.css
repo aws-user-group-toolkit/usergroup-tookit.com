@@ -1,0 +1,272 @@
+@font-face {
+    font-family: 'AmazonEmberCd_W_Bd';
+    src: url('.//AmazonEmberCd_W_Bd.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_Bd.woff') format('woff'),
+        url('.//AmazonEmberCd_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_BdIt';
+    src: url('.//AmazonEmberCd_W_BdIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_BdIt.woff') format('woff'),
+        url('.//AmazonEmberCd_W_BdIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_Lt';
+    src: url('.//AmazonEmberCd_W_Lt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_Lt.woff') format('woff'),
+        url('.//AmazonEmberCd_W_Lt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_LtIt';
+    src: url('.//AmazonEmberCd_W_LtIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_LtIt.woff') format('woff'),
+        url('.//AmazonEmberCd_W_LtIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_Rg';
+    src: url('.//AmazonEmberCd_W_Rg.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_Rg.woff') format('woff'),
+        url('.//AmazonEmberCd_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_RgIt';
+    src: url('.//AmazonEmberCd_W_RgIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_RgIt.woff') format('woff'),
+        url('.//AmazonEmberCd_W_RgIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_Th';
+    src: url('.//AmazonEmberCd_W_Th.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_Th.woff') format('woff'),
+        url('.//AmazonEmberCd_W_Th.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberCd_W_ThIt';
+    src: url('.//AmazonEmberCd_W_ThIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberCd_W_ThIt.woff') format('woff'),
+        url('.//AmazonEmberCd_W_ThIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDisplay_W_Bd';
+    src: url('.//AmazonEmberDisplay_W_Bd.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDisplay_W_Bd.woff') format('woff'),
+        url('.//AmazonEmberDisplay_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDisplay_W_He';
+    src: url('.//AmazonEmberDisplay_W_He.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDisplay_W_He.woff') format('woff'),
+        url('.//AmazonEmberDisplay_W_He.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDisplay_W_Lt';
+    src: url('.//AmazonEmberDisplay_W_Lt.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDisplay_W_Lt.woff') format('woff'),
+        url('.//AmazonEmberDisplay_W_Lt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDisplay_W_Md';
+    src: url('.//AmazonEmberDisplay_W_Md.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDisplay_W_Md.woff') format('woff'),
+        url('.//AmazonEmberDisplay_W_Md.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDisplay_W_Rg';
+    src: url('.//AmazonEmberDisplay_W_Rg.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDisplay_W_Rg.woff') format('woff'),
+        url('.//AmazonEmberDisplay_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDuospace_W_Bd';
+    src: url('.//AmazonEmberDuospace_W_Bd.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDuospace_W_Bd.woff') format('woff'),
+        url('.//AmazonEmberDuospace_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberDuospace_W_Rg';
+    src: url('.//AmazonEmberDuospace_W_Rg.eot') format('embedded-opentype'),
+        url('.//AmazonEmberDuospace_W_Rg.woff') format('woff'),
+        url('.//AmazonEmberDuospace_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberMono_W_Bd';
+    src: url('.//AmazonEmberMono_W_Bd.eot') format('embedded-opentype'),
+        url('.//AmazonEmberMono_W_Bd.woff') format('woff'),
+        url('.//AmazonEmberMono_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmberMono_W_Rg';
+    src: url('.//AmazonEmberMono_W_Rg.eot') format('embedded-opentype'),
+        url('.//AmazonEmberMono_W_Rg.woff') format('woff'),
+        url('.//AmazonEmberMono_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_Bd';
+    src: url('.//AmazonEmber_W_Bd.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_Bd.woff') format('woff'),
+        url('.//AmazonEmber_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_BdIt';
+    src: url('.//AmazonEmber_W_BdIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_BdIt.woff') format('woff'),
+        url('.//AmazonEmber_W_BdIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_He';
+    src: url('.//AmazonEmber_W_He.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_He.woff') format('woff'),
+        url('.//AmazonEmber_W_He.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_HeIt';
+    src: url('.//AmazonEmber_W_HeIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_HeIt.woff') format('woff'),
+        url('.//AmazonEmber_W_HeIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_Lt';
+    src: url('.//AmazonEmber_W_Lt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_Lt.woff') format('woff'),
+        url('.//AmazonEmber_W_Lt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_LtIt';
+    src: url('.//AmazonEmber_W_LtIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_LtIt.woff') format('woff'),
+        url('.//AmazonEmber_W_LtIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_Rg';
+    src: url('.//AmazonEmber_W_Rg.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_Rg.woff') format('woff'),
+        url('.//AmazonEmber_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_RgIt';
+    src: url('.//AmazonEmber_W_RgIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_RgIt.woff') format('woff'),
+        url('.//AmazonEmber_W_RgIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_SBd';
+    src: url('.//AmazonEmber_W_SBd.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_SBd.woff') format('woff'),
+        url('.//AmazonEmber_W_SBd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_SBdIt';
+    src: url('.//AmazonEmber_W_SBdIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_SBdIt.woff') format('woff'),
+        url('.//AmazonEmber_W_SBdIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_Th';
+    src: url('.//AmazonEmber_W_Th.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_Th.woff') format('woff'),
+        url('.//AmazonEmber_W_Th.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'AmazonEmber_W_ThIt';
+    src: url('.//AmazonEmber_W_ThIt.eot') format('embedded-opentype'),
+        url('.//AmazonEmber_W_ThIt.woff') format('woff'),
+        url('.//AmazonEmber_W_ThIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyDisplay_W_Bd';
+    src: url('.//BookerlyDisplay_W_Bd.eot') format('embedded-opentype'),
+        url('.//BookerlyDisplay_W_Bd.woff') format('woff'),
+        url('.//BookerlyDisplay_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyDisplay_W_BdIt';
+    src: url('.//BookerlyDisplay_W_BdIt.eot') format('embedded-opentype'),
+        url('.//BookerlyDisplay_W_BdIt.woff') format('woff'),
+        url('.//BookerlyDisplay_W_BdIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyDisplay_W_It';
+    src: url('.//BookerlyDisplay_W_It.eot') format('embedded-opentype'),
+        url('.//BookerlyDisplay_W_It.woff') format('woff'),
+        url('.//BookerlyDisplay_W_It.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyDisplay_W_Rg';
+    src: url('.//BookerlyDisplay_W_Rg.eot') format('embedded-opentype'),
+        url('.//BookerlyDisplay_W_Rg.woff') format('woff'),
+        url('.//BookerlyDisplay_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_Bd';
+    src: url('.//BookerlyLCD_W_Bd.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_Bd.woff') format('woff'),
+        url('.//BookerlyLCD_W_Bd.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_BdIt';
+    src: url('.//BookerlyLCD_W_BdIt.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_BdIt.woff') format('woff'),
+        url('.//BookerlyLCD_W_BdIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_Lt';
+    src: url('.//BookerlyLCD_W_Lt.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_Lt.woff') format('woff'),
+        url('.//BookerlyLCD_W_Lt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_LtIt';
+    src: url('.//BookerlyLCD_W_LtIt.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_LtIt.woff') format('woff'),
+        url('.//BookerlyLCD_W_LtIt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_Rg';
+    src: url('.//BookerlyLCD_W_Rg.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_Rg.woff') format('woff'),
+        url('.//BookerlyLCD_W_Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BookerlyLCD_W_RgIt';
+    src: url('.//BookerlyLCD_W_RgIt.eot') format('embedded-opentype'),
+        url('.//BookerlyLCD_W_RgIt.woff') format('woff'),
+        url('.//BookerlyLCD_W_RgIt.woff2') format('woff2');
+}

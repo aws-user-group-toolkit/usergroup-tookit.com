@@ -32,6 +32,16 @@ github_username:  jekyll
 repository: "aws-user-group-toolkit/usergroup-tookit.com"
 breadcrumbs: true  # disabled by default
 
+logo: "/assets/images/user_group_toolkit_logo.png"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aws-user-group-toolkit"
+
+include: ["_pages"]
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 plugins:
