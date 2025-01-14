@@ -72,6 +72,7 @@ notion:
   databases:
     - id: "be049d33-9b86-4a47-9723-1ca869d9f19b"
       layout: "single"
+      filter: { "property": "Published", "checkbox": { "equals": true } }
       # template: "post"
       # permalink: "/:Name"
       # collection: posts
